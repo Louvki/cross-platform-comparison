@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:http/http.dart' as http;
 
-import 'package:my_flutter_app/bloc/todos/todos.dart';
-import 'package:my_flutter_app/home_screen.dart';
+import 'package:flutter_todo/bloc/todos/todos.dart';
+import 'package:flutter_todo/home_screen.dart';
 
 void main() => runApp(MyApp());
 

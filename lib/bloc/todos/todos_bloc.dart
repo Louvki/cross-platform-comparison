@@ -4,8 +4,8 @@ import 'dart:convert';
 import 'package:meta/meta.dart';
 import 'package:http/http.dart' as http;
 import 'package:bloc/bloc.dart';
-import 'package:my_flutter_app/bloc/todos/todos.dart';
-import 'package:my_flutter_app/models/todo.dart';
+import 'package:flutter_todo/bloc/todos/todos.dart';
+import 'package:flutter_todo/models/todo.dart';
 
 class TodosBloc extends Bloc<TodosEvent, TodosState> {
   final http.Client httpClient;

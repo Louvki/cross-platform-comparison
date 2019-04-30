@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'package:my_flutter_app/bloc/filtered_todos/filtered_todos.dart';
-import 'package:my_flutter_app/todo_list_item.dart';
+import 'package:flutter_todo/bloc/filtered_todos/filtered_todos.dart';
+import 'package:flutter_todo/todo_list_item.dart';
 
 class TodoList extends StatelessWidget {
   TodoList({Key key}) : super(key: key);

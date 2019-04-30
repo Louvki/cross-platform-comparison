@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'package:my_flutter_app/bloc/todos/todos.dart';
-import 'package:my_flutter_app/bloc/filtered_todos/filtered_todos.dart';
-import 'package:my_flutter_app/bloc/tab/tab.dart';
-import 'package:my_flutter_app/models/visibility_filter.dart';
-import 'package:my_flutter_app/models/app_tab.dart';
-import 'package:my_flutter_app/todo_list.dart';
-import 'package:my_flutter_app/tab_selector.dart';
-import 'package:my_flutter_app/todo_add.dart';
+import 'package:flutter_todo/bloc/todos/todos.dart';
+import 'package:flutter_todo/bloc/filtered_todos/filtered_todos.dart';
+import 'package:flutter_todo/bloc/tab/tab.dart';
+import 'package:flutter_todo/models/visibility_filter.dart';
+import 'package:flutter_todo/models/app_tab.dart';
+import 'package:flutter_todo/todo_list.dart';
+import 'package:flutter_todo/tab_selector.dart';
+import 'package:flutter_todo/todo_add.dart';
 
 class HomeScreen extends StatefulWidget {
   @override

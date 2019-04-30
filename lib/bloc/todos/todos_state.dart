@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
 
-import 'package:my_flutter_app/models/todo.dart';
+import 'package:flutter_todo/models/todo.dart';
 
 abstract class TodosState extends Equatable {
   TodosState([List props = const []]) : super(props);

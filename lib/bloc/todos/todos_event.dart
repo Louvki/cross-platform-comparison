@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:my_flutter_app/models/todo.dart';
+import 'package:flutter_todo/models/todo.dart';
 
 abstract class TodosEvent extends Equatable {
   TodosEvent([List props = const []]) : super(props);

@@ -1,10 +1,10 @@
 import 'dart:async';
 import 'package:bloc/bloc.dart';
 import 'package:meta/meta.dart';
-import 'package:my_flutter_app/bloc/filtered_todos/filtered_todos.dart';
-import 'package:my_flutter_app/bloc/todos/todos.dart';
-import 'package:my_flutter_app/models/todo.dart';
-import 'package:my_flutter_app/models/visibility_filter.dart';
+import 'package:flutter_todo/bloc/filtered_todos/filtered_todos.dart';
+import 'package:flutter_todo/bloc/todos/todos.dart';
+import 'package:flutter_todo/models/todo.dart';
+import 'package:flutter_todo/models/visibility_filter.dart';
 
 class FilteredTodosBloc extends Bloc<FilteredTodosEvent, FilteredTodosState> {
   final TodosBloc todosBloc;

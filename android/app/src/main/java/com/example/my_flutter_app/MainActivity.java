@@ -1,4 +1,4 @@
-package com.example.my_flutter_app;
+package com.example.flutter_todo;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

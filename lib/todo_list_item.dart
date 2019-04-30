@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import 'package:my_flutter_app/bloc/todos/todos.dart';
-import 'package:my_flutter_app/models/todo.dart';
+import 'package:flutter_todo/bloc/todos/todos.dart';
+import 'package:flutter_todo/models/todo.dart';
 
 class TodoListItem extends StatelessWidget {
   final Todo todo;

@@ -1,5 +1,5 @@
-name: my_flutter_app
-description: A new Flutter project.
+name: flutter_todo
+description: A small flutter project showcasing the BLoC pattern.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -26,8 +26,6 @@ dependencies:
   flutter_bloc: ^0.11.0
   http: ^0.12.0
   equatable: ^0.2.0
-  english_words: ^3.1.0
-  uuid: ^2.0.0
 
 dev_dependencies:
   flutter_test:
