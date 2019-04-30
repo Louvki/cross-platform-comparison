@@ -8,5 +8,6 @@ react-native run-android
 ```
 or
 ```
+npm install 
 react-native run-ios
 ```
