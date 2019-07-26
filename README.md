@@ -5,7 +5,8 @@ For my bachelor project in cooperation with Business Academy Aarhus I conducted 
 I made a small implementation of a todo application framework. To better understand state management I also implemented the FLUX pattern in the React Native app as well the BLoC pattern in the Flutter app. In the thesis I further analyse and compare them based on articles, documentation and my own experience as well as any other information i found relevant.
 
 
-You can find the thesis here [mobile-cross-platform-framework-analysis.pdf]
+[You can find the thesis here](./mobile-cross-platform-framework-analysis.pdf)
+
 In the thesis I do an in-depth look into the technology behind them, technology stacks surrounding them, performance, development speed, learning curve and general strenghts and weaknesses of each framework. 
  
 ## Flutter - Getting Started
