@@ -1,5 +1,5 @@
 # React Native todo
-A simple todo application in React Native along with a simple implementation of the FLUX state management pattern.
+A simple todo application in React Native along with a implementation of the FLUX state management pattern.
 Uses the https://jsonplaceholder.typicode.com/ for data. 
 
 ##  Getting started
