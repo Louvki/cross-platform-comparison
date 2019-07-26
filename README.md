@@ -26,7 +26,6 @@ Make sure you have your device connected or an emulator running
 ```
 cd ./react-native-todo
 npm install 
-react-native run-android
 ```
 For android: ```react-native run-android``` <br/>
 For ios:   ```react-native run-ios```
