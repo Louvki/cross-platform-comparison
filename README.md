@@ -5,7 +5,7 @@ For my bachelor project in cooperation with Business Academy Aarhus I conducted 
 I made a small implementation of a todo application for each framework. To better understand state management I also implemented the *FLUX pattern* in the React Native app as well the *BLoC pattern* in the Flutter app.
 
 
-In the thesis I do an in-depth look into the technology the framework is based on, the stack stacks surrounding it, performance, development speed, learning curve and general strenghts and weaknesses. This is based on articles, documentation and my own experience as well as any other information i found relevant.
+In the thesis I do an in-depth look into the technology the framework is based on, the stack surrounding it, performance, development speed, learning curve and general strenghts and weaknesses. This is based on articles, documentation and my own experience as well as any other information i found relevant.
 
 
 [You can find the thesis here](./mobile-cross-platform-framework-analysis.pdf)
