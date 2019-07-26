@@ -1,13 +1,17 @@
-# react-native-todo
-A simple todo application in React Native with the basic implementation of the Flux pattern
+# React Native todo
+A simple todo application in React Native along with a simple implementation of the FLUX state management pattern.
+Uses the https://jsonplaceholder.typicode.com/ for data. 
 
-# Getting started
+##  Getting started
 Make sure you have your device connected or an emulator running
+
+For android:
 ```
 npm install 
 react-native run-android
 ```
-or
+
+For iOs
 ```
 npm install 
 react-native run-ios
