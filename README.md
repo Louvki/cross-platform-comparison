@@ -12,7 +12,7 @@ In the thesis I do an in-depth look into the technology the framework is based o
  
 ## Getting Started - Flutter 
 Make sure you have flutter installed.<br/>
-Make sure you have a device connected or an emulator running
+Make sure you have a device connected or an emulator running.
 
 ```
 cd ./flutter-todo
@@ -28,7 +28,7 @@ cd ./react-native-todo
 npm install 
 react-native run-android
 ```
-For android: ```react-native run-android```
+For android: ```react-native run-android``` <br/>
 For ios:   ```react-native run-ios```
 
  ## Getting Started - Ionic
