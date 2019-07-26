@@ -10,7 +10,7 @@ In the thesis I do an in-depth look into the technology the framework is based o
 
 [You can find the thesis here](./mobile-cross-platform-framework-analysis.pdf)
  
-## Flutter - Getting Started
+## Getting Started - Flutter 
 Make sure you have flutter installed.<br/>
 Make sure you have a device connected or an emulator running
 
@@ -21,7 +21,7 @@ flutter run
 ```
 
 
- ## React native - Getting Started
+## Getting Started - React native
 Make sure you have your device connected or an emulator running
 ```
 cd ./react-native-todo
@@ -29,9 +29,9 @@ npm install
 react-native run-android
 ```
 For android: ```react-native run-android```
-For ios:   ```react-native run-ios
+For ios:   ```react-native run-ios```
 
- ## Ionic - Getting Started
+ ## Getting Started - Ionic
 ```
 cd ./ionic-todo
 npm install
